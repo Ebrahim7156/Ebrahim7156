@@ -1,32 +1,20 @@
-# ⚡ Ebrahim7156
+# 👋 Hi, I'm Ebrahim!
 
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Stats" height="165" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Top Languages" height="165" />
-  </a>
-</p>
+### 💻 About Me
+- **Role:** Full Stack Developer & Tech Enthusiast
+- **Focus:** Creating digital magic & building innovation-driven web systems
+- **Mission:** Transforming complex problems into simple, elegant code
 
 ---
 
 ### 🛠️ Core Stack
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+
+- **Languages:** Python • JavaScript • TypeScript • HTML5 • CSS3
+- **Frameworks:** React • Node.js • Next.js • Express • TailwindCSS
+- **Tools:** Git • GitHub • Docker • PostgreSQL • MongoDB
 
 ---
 
-<p align="center">
-  📬 <b>Let's build something incredible.</b>
-</p>
+### 📬 Connect With Me
+- **GitHub:** You are already here! Feel free to explore my repositories.
+- **Let's Collaborate:** Drop a line on my profile if you want to build something incredible.
